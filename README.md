@@ -1,4 +1,5 @@
-<h1 align="center">👋 Entrega SASS II y SEO</h1>
+<h1 align="center">👋 Tercera Entrega Proyecto</h1>
+<h3 align="center">Alexis Aguilar </h3>
 
 ###CoderHouse 
-###21/01/2022 
+###27/01/2022 
